@@ -7,7 +7,7 @@ class PriceFilter extends Equatable {
   final bool value;
 
   PriceFilter({
-    required this.id,
+    required this.i,
     required this.price,
     required this.value,
   });
